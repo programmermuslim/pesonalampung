@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:layout_height="match_parent"
+    tools:context="pm.ima.poenya.batam.fragment.RestoranFragment"
+    android:background="#ffffff">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/dealKosong"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView3"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/deal_kosong" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Ooops!!"
+            android:id="@+id/textView3"
+            android:layout_below="@+id/imageView3"
+            android:layout_centerHorizontal="true"
+            android:textSize="26dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Data Masih Kosong"
+            android:id="@+id/textView16"
+            android:layout_below="@+id/textView3"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/no_image"
+
+        android:layout_centerInParent="true"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:id="@+id/ivMenuKuImgResto"
+        android:padding="5dp"
+        android:layout_height="200dp" />
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/lvRestoranFragment"
+        android:layout_weight="1"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+
+
+        android:smoothScrollbar="true"/>
+</LinearLayout>

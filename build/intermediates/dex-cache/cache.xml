@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_29431ed471352b1f8ea3c45c924c467307910985/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_26d375262df125d4ebb93abd463a9e3306a50c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_4b667db871fc73973c2578b6e6ed6fdbd2ae7fbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2da831a7b2b84b760add6a69212dfa130dc5421d">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3956dd8c28c105e5f25a8a0670b9952e17749fcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_104eb7c79b57101be75e2d0d10dbedb5c963495e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1959446e516b3d728300e2095598adaab5e84fa">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dfebef525523853042003dad251240ad30412100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_3089ee46a9d32ceea1c8ba1f28f350e720144ae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_f3565224da1d31fb46bf687b01a4d472d4640116/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_6084e4e56403f0b443a6b321464ab252d200fe77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_c2b40620ac9fdb86d41d7c391646ee217d800b43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_ecbc38a34d1eb7a2a1a10e5f223b805988c855df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_86a143babe40e8d116ebe975842377c04afa1bec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.2.0_1d8a98041d13b780be7759f0c6effab493fa8ecb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_b5c5d8404ef000a38688f82fb148ef247f337012/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/libs/android-query-full.0.26.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-query-full.0.26.8_69c4296fe24acbb6e359cea55bddce390723fe43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.2.0_16ac67f9e2e11618ee7903ddbbdc513209bde940/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_66a4df70470356213c34413024e7fbbdcc0c594f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MAC/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/MAC/ProjectIMASTUDIO/PROJECT IMA/ProjectRizki/PesonaLampung/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_2291f19a1e3f8fc17c689f023167fa5195c612da/classes.dex" />
+    </item>
+
+</items>

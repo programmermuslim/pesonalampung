@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/imgMenu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/gradient_slideshow_background"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        android:padding="@dimen/standard_margin">
+        <TextView
+            android:id="@+id/tvNamaResto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_and_icon_color"
+            android:textSize="@dimen/body"
+            android:background="@color/accent_color"
+            android:paddingLeft="@dimen/caption_padding"
+            android:paddingRight="@dimen/caption_padding"
+            android:visibility="gone" />
+        <TextView
+            android:id="@+id/tvNamaMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_and_icon_color"
+            android:textSize="@dimen/headline"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:visibility="gone" />
+        <TextView
+            android:id="@+id/tvDesMenu"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="@dimen/subhead"
+            android:textColor="@color/text_and_icon_color"
+            android:visibility="gone" />
+    </LinearLayout>
+</RelativeLayout>
